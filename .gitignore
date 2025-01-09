@@ -1,2 +1,6 @@
 bin
 build
+data
+material
+tests/test1
+src/timezones
